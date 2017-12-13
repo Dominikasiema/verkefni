@@ -1,0 +1,82 @@
+body {
+	display: grid;
+	font-language-override:  column; 
+
+	 line-height: 1.5em;
+} 
+header {
+	order:1;
+	background: rgb(204, 102, 0); 
+}
+.kafli-1 {
+	order: 2;
+}
+footer {
+	order: 3;
+	background: lightgreen; 
+}
+
+}
+.adalgrein {
+  background: skyblue; 
+}
+.haegri {
+  background: gold; 
+}
+header,
+footer,
+.adalgrein,
+.haegri {
+  padding: 1em; 
+}
+header h1 {
+  color: #fff;
+  line-height: 1.2;
+  font-weight: normal;
+}
+
+@media screen and (min-width: 37.5em) {
+	.kafli-1 {
+		display: flex;
+		flex-flow: row wrap;
+	}
+	.adalgrein {
+		width: 100%;
+	}
+	.haegri {
+		width: 50%;
+	}
+}
+
+
+@media screen and (min-width: 48em) {
+	.kafli-1 {
+		display: flex;
+		flex-flow: row nowrap;
+	}
+	.adalgrein {
+		order: 2;
+		flex: 3 3 1em; 
+
+	}
+	.haegri {
+		order: 3;
+		flex: 1 1 0;
+	}
+}
+
+
+@media screen and (min-width: 60em) {
+	body {
+		max-width: 60em;
+		margin: 0 auto;
+		background: #fc9;
+	}
+}
+
+@media screen and (min-width: 80em) {
+	body {
+		max-width: 80em;
+		margin: 0 auto;
+	}
+}
