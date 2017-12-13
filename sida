@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<title>Verkefni</title>
+	<link rel="stylesheet" href="stilsida1.css">
+
+</head>
+<body> 
+    
+	<section class="kafli-1">
+		<article class="adalgrein">
+			<h2>Aðaldálkur</h2>
+			<h4>Minecraft er tölvuleikur eftir Markus Persson sem gengur út á að byggja mannvirki úr kubbum í þrívíðri veröld. Full útgáfa leiksins kom út 11. nóvember 2011.Árið 2009 kom leikurinn út í alfaútgáfu. Ári síðar var fyrirtækið Mojang stofnað í kringum leikinn. Árið 2013 hafði leikurinn selst í meira en 30 milljón eintökum.
+			</h4> 
+		</article>
+		<aside class="vinstri">
+			<h3>Vinstri dálkur</h3>
+			<p>Minecraft er sandkassaleikur eða opinn leikheimur þar sem það er ekkert sérstakt markmið sem spilari á að stefna að en þó er innbyggt í leikinn hvatakerfi. Sjálfgefið gildi er að leikurinn er spilaður í fyrstu persónu en spilarar geta breytt leikham í þriðju persónu. Spilarinn vinnur innan sérsmíðaðra þrívíddarheima sem eru skapaðir úr miklum fjölda af mynstruðum kubbum.
+			</p>
+			<p></p>
+		</aside>
+		<aside class="haegri">
+			<h3>Hægri dálkur</h3>
+			<p>Kjarni leiksins gengur út að að brjóta og staðsetja blokkir. Leikjaheimurinn er byggður úr grófum 3D hlutum, aðallega kubbum sem eru sett í saman á grind með mynstrum og tákna eiga mismunandi efni svo sem mold, steina, járn, demanta, vatn og trjáboli. Spilarar geta hreyft sig frjálst um leikheiminn en kubbablokkir er hins vegar aðeins hægt að staðsetja á ákveðnum stöðum miðað við grindina. Spilarar geta safnan þessum efnisblokkum og fært þær á aðra staði og þannig búið til mismunandi hluti. Kubbarnir hafa ákveðna eiginleika eftir mynstri, moldarkubbar er hægt að nota til að rækta ýmsar plöntur sem gefa afurðir en spilarar geta safnað afurðum og notað til að smíða verkfæri og vopn. Verkfærin eru misgóð, þau verstu úr við en bestu úr demöntum.
+			</p>
+		</aside>
+	</section>
+	<footer>
+		<h3>Fótur</h3>
+		<p>Minecraft hefur verið notað sem verkfæri í námi það sem nemendur byggja eigin þrívíddarheima.Microsoft keypti leikin af Mojang og er búið að þróa útgáfur af honum fyrir flest öll tölvukerfi.</p>
+	</footer>
+</body>
+</html>
